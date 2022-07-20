@@ -27,6 +27,7 @@ Devemos na nossa main/index envolver o App com o Provider e direciona-lo ao arma
 
 https://www.youtube.com/watch?v=iBUJVy8phqw&t=2s
 https://redux-toolkit.js.org/tutorials/quick-start#add-slice-reducers-to-the-store
+https://redux.js.org/tutorials/essentials/part-1-overview-concepts
 
 npm install @reduxjs/toolkit react-redux
 
